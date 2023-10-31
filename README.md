@@ -9,7 +9,7 @@ In the project directory, you can run:
 ![Screenshot 2023-10-08 120222](https://github.com/Shiv199206/deploy-git-project/assets/126183364/f245546a-d2f5-4800-9baf-e04058f616d6)
 
 
-### `npm start`
+### `template`
 vbbb
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
